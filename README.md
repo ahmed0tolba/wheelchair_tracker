@@ -4,7 +4,8 @@
 Technologies used:<br>
 -Flutter<br>
 -Python for backend<br>
--Arduino nano and RF 433<br>
+-Arduino nano and ESP32 bluetooth<br>
+-ESP32 wifi<br>
 -SQLite for database<br>
 </b>
 <br>
