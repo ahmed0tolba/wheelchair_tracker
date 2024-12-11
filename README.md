@@ -28,6 +28,5 @@ Below are screen shots of the app<br><br>
 <img src="https://github.com/ahmed0tolba/wheelchair_tracker/blob/main/screenshots/Screenshot_5.png" width="300" />
 <img src="https://github.com/ahmed0tolba/wheelchair_tracker/blob/main/screenshots/Screenshot_6.png" width="300" />
 <img src="https://github.com/ahmed0tolba/wheelchair_tracker/blob/main/screenshots/Screenshot_7.png" width="300" />
-<img src="https://github.com/ahmed0tolba/wheelchair_tracker/blob/main/screenshots/Screenshot_7.png" width="300" />
 <img src="https://github.com/ahmed0tolba/wheelchair_tracker/blob/main/screenshots/Screenshot_9.png" width="300" />
 
